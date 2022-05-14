@@ -92,3 +92,11 @@ li {
     text-align: center;
 }
   
+@media only screen and (max-width: 1048px) {
+
+    .photos img {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
