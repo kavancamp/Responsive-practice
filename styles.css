@@ -49,17 +49,34 @@ li {
 .photos,
 .meetup {
     margin: 4em auto;
-    }
+}
 .summary {
-        padding: 0 1rem;
-    }
+    padding: 0 1rem;
+}
 .summary p {
-        color: White;
-    }
+    color: White;
+}
 .testimonial {
-        background-color: teal;
-        height: 20rem;
-        padding: 0 1rem;
-        padding-top: 1rem;
-        color: yellow;
-    }
+    background-color: teal;
+    height: 20rem;
+    padding: 0 1rem;
+    padding-top: 1rem;
+    color: yellow;
+}
+.testimonial h1 {
+    font-size: 2.5rem;
+    color: yellow;
+}
+    
+.summary h2 {
+    color: yellow;
+}
+    
+.photos img {
+    width: 30%;
+    margin: 1.5%;
+}
+
+.meetup {
+    margin-bottom: 2rem;
+}
