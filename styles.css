@@ -12,3 +12,10 @@ body {
 .bar p {
     left: 25rem;
 }
+.intro {
+    height: 30rem;
+    padding-top: 1rem;
+    background-image: url('https://content.codecademy.com/PRO/independent-practice-projects/responsive-meetup-page/img/runner-splash.jpg');
+    background-position: center;
+    background-repeat: none;
+  }
