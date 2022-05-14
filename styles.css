@@ -80,3 +80,15 @@ li {
 .meetup {
     margin-bottom: 2rem;
 }
+.meetup img {
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+.meetup h1 {
+    color: yellow;
+    text-align: center;
+}
+  
