@@ -18,42 +18,48 @@ body {
     background-image: url('https://content.codecademy.com/PRO/independent-practice-projects/responsive-meetup-page/img/runner-splash.jpg');
     background-position: center;
     background-repeat: none;
-  }
-  .intro img {
+}
+.intro img {
     width: 15rem;
     display: block;
     margin: auto;
     margin-top: 5rem;
-  }
-  .intro h1 {
+}
+.intro h1 {
     color: Coral;
     font-size: 2rem;
     margin-top: 10rem;
     padding: 2rem;
     background-color: rgba(0.5, 0.5, 0.5, 0.5);
     text-align: center;
-  }
-  ul {
+}
+ul {
     list-style: none;
     margin: 0;
-  }
-  
-  li {
+}
+
+li {
     color: lightsalmon;
     padding: 0.5rem 1.5rem;
     margin-right: 1.5rem;
     display: inline-block;
-  }
+}
 .summary,
 .testimonial,
 .photos,
 .meetup {
-  margin: 4em auto;
-}
+    margin: 4em auto;
+    }
 .summary {
-    padding: 0 1rem;
-  }
-  
-  .summary p {
-    color: White;
-  }
+        padding: 0 1rem;
+    }
+.summary p {
+        color: White;
+    }
+.testimonial {
+        background-color: teal;
+        height: 20rem;
+        padding: 0 1rem;
+        padding-top: 1rem;
+        color: yellow;
+    }
