@@ -3,9 +3,12 @@ body {
     font-size: 16px;
     margin: 0;
     background-color: lightsalmon;
-  }
+}
 .bar {
     padding-top: 1rem;
     background-color: teal;
     color: lightsalmon;
-  }
+}
+.bar p {
+    left: 25rem;
+}
