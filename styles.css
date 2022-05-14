@@ -44,3 +44,9 @@ body {
     margin-right: 1.5rem;
     display: inline-block;
   }
+.summary,
+.testimonial,
+.photos,
+.meetup {
+  margin: 4em auto;
+}
