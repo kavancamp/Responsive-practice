@@ -4,4 +4,8 @@ body {
     margin: 0;
     background-color: lightsalmon;
   }
-  
+.bar {
+    padding-top: 1rem;
+    background-color: teal;
+    color: lightsalmon;
+  }
