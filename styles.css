@@ -50,3 +50,10 @@ body {
 .meetup {
   margin: 4em auto;
 }
+.summary {
+    padding: 0 1rem;
+  }
+  
+  .summary p {
+    color: White;
+  }
