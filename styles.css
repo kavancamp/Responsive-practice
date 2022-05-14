@@ -19,3 +19,9 @@ body {
     background-position: center;
     background-repeat: none;
   }
+  .intro img {
+    width: 15rem;
+    display: block;
+    margin: auto;
+    margin-top: 5rem;
+  }
